@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "CRYPFLOW",
+    "slug": "crypflow",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourname.crypflow"
+    },
+    "android": {
+      "package": "com.yourname.crypflow"
+    }
+  }
+}
